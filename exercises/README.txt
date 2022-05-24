@@ -1,1 +1,1 @@
-
+Las dificultades con las que me encontre fueron mayormente con los arrays y strings que muchas veces me las confundia y no podía ejecutar los ejercicios. Entiendo que deben ser errores de principiantes.
