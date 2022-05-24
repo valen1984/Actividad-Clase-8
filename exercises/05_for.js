@@ -1,9 +1,9 @@
 /* 05_for.js */
 function Ejercicio5A() {
-  const nuevoArray = ["LPPA", "JS", "HTML", "CSS", "DB"];
+  const semana = ["lunes", "martes", "miercoles", "jueves", "viernes"];
   for (let i=0; i<5 ; i++)
   {
-      alert ("La palabra en la posicion " + i + " es " + nuevoArray[i]);
+      alert ("La palabra en la posicion " + i + " es " + semana[i]);
   }
 }
 
